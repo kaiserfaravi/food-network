@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    
+} 
+body p{
+    text-align: justify;
+}
+h1{
+    font-size: 50px;
+}
+#span-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.width-size{ 
+    width: 50%;
+    padding: 3%;
+    margin: 2%;
+
+}
+.width-size img{
+    width: 75%;
+} 
+.order-food-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+}
+#Heading-color{
+    color: grey;
+} 
+.Contact-me{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+  
+}
+.background-img{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+ 
+   
+} 
+#height-width-img{
+    height: 500px;
+}
+.align{
+    text-align: center;
+    color: grey;
+}
+
+.border-type{
+    border-radius: 10%;
+    border: 20px solid rgb(255, 255, 255);
+    padding: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 20px grey;
+    
+} 
+.followers{
+ margin: 150px;
+border-radius: 3%;
+ background-color:white;
+ box-shadow: 10px 10px 20px grey;
+ height:120px;
+ border: 20px solid rgb(255, 255, 255);
+ padding: 20px;
+} 
+footer{
+    text-align: center;
+    background-color:rgb(14, 11, 11);
+    margin:10px;
+   padding: 25px;
+} 
+#footer-text-color{ 
+    color: orange;
+} 
+#footer-text-color2{
+    color: grey;
+} 
+footer small{
+    color: white;
