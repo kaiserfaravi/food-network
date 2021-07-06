@@ -47,7 +47,7 @@ section{
 .background-img{
     background-image: url(shapes/7.png);
     background-repeat: no-repeat;
- 
+    width: 100%;
    
 } 
 #height-width-img{
@@ -80,7 +80,7 @@ footer{
     margin:10px;
    padding: 25px;
 } 
-#footer-text-color{ 
+.text-color{ 
     color: orange;
 } 
 #footer-text-color2{
@@ -88,3 +88,4 @@ footer{
 } 
 #small-text-color-in-footer{
     color: white;
+}
